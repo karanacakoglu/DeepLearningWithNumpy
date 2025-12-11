@@ -1,4 +1,4 @@
-# BroTorch: Deep Learning Framework from Scratch 🚀
+# Basic Deep Learning Framework from Scratch 🚀
 
 **My own Deep Learning Library** is a lightweight, modular deep learning library built entirely from scratch using only **NumPy**. 
 
